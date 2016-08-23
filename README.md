@@ -1,3 +1,5 @@
+# Fork, original here: [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
+
 [![](docs/logo.png)](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html)
 
 > The boilerplate for making electron apps built with vue (pretty much what it sounds like).
